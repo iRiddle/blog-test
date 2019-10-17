@@ -1,0 +1,12 @@
+.card {
+  margin-bottom: 12px;
+}
+
+.button-danger {
+  display: flex;
+  justify-content: flex-end;
+
+  button:first-child {
+    margin-right: 12px;
+  }
+}
